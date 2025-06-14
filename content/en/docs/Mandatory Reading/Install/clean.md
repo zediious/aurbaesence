@@ -26,6 +26,7 @@ This will also ensure that your Skyrim game folder has been completely cleaned o
 ### Installing the Creation Kit
 
 1. Go to the Store tab in the Steam app, search for "Skyrim Special Edition: Creation Kit", and click the result.
+- Make sure you are downloading the **Special Edition** Creation Kit! Here is the direct link: [https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 
 2. Scroll down, and click the green "Free" button to install the Creation Kit. This will/should be installed to the Skyrim SE game folder.
 
