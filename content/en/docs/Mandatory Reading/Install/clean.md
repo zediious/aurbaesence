@@ -4,7 +4,7 @@ weight: 2
 ---
 As with any modlist, it is extremely important that you start with a clean, unmodified installation of Skyrim: Special Edition. This is an **extremely** vital part of the installation process, do NOT skip this!
 
-This list requires that you have the **Creation Store version of Rare Curios**, rather than the Steam-downloaded versions.
+This list requires that you have the **Creation Store version of Rare Curios**, rather than the Steam-downloaded versions. **The list will fail to install if this is not the case!**
 
 This list also requires you to install the Skyrim Special Edition Creation Kit from Steam. **The list will fail to install if the Creation Kit is not installed to the Skyrim game folder.**
 
