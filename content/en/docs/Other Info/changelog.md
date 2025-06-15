@@ -14,6 +14,105 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
+## v1.1.4 - **6/15/2025**
+
+This version is **SAVE SAFE!** You should have no issues playing this version with saves created post version 1.1, but always keep backups of your saves!
+
+The largest change with this version is the addition of Undeath! Along with numberous additions and fixes, this set of mods allows you to become a **Lich!** The mod has been meticulously patched both by the community and internally. The questline for this mod has high requirements and relatively tough sections, with very high reward!
+
+We've also updated a few mods, along with a few new additions.
+
+For previous users, it should be noted that this modlist now requires the Creation Store version of **Rare Curios**. Modlist installation instructions have been changed to reflect this.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
+
+### Added
+
+- World Encounter Noble Riding Horse Fix
+- Alt-Tab Stuck Key Fix NG
+- Light Placer
+- CS Light
+- Dynamic Interior Ambient Lighting
+- Sovngarde Meshes - FIXES
+- HFs - Some Iron Tools
+- Diverse Grindstones
+- Skyrim Sewers Undeath Patch
+- JK's Guild HQ Interiors Patch Collection
+- Immersive Dialogue Expansion - Whiterun
+- Undeath Remastered
+- Undeath - Classical Lichdom + Patches
+- Undeath Lich Can Fly
+- Once We Were Here - Quest Mod
+- Underwater Loop and Swimming Sounds
+- Attack Animation Fling Fix NG
+- Swimming Mount Animation Fix
+
+### Updated
+
+- DynDOLOD 3 Alpha - Alpha-190 > Alpha-191
+- No Grass in Objects - 1.3 > 1.4
+- Stuck on Screen Load Door Prompt Fix - 0.1.1 > 0.2
+- NPC Stuck in Bleedout Fix - 0.1.3 > 0.2
+- Alternate Perspective - Falkreath Favor Quest Failsafe - 1.1 > 1.1.4
+- Tween Menu Overhaul - 1.0 > 1.1
+- Predictable Persuasion - 1.0.6 > 1.0.7
+- DynDOLOD Resources - Alpha-55 > Alpha-56
+- DynDOLOD DLL NG - Alpha-33 > Alpha-34
+- NAT III - Community Shaders - 1.5 > 1.5.3
+- Stealth Detection Fixes - 2.1 > 2.2
+- C.O.I.N. - Coins of Interesting Natures - 3.1.5 > 3.2.1
+- Simplicity of Seeding - 0.6.4 > 0.7.1
+- Crowded Streets - 1.1.2 > 1.1.3
+- Considerate Followers - Followers are Silent During Dialogue - 1.2.3 > 1.3.0
+- Considerate Followers for Skyrim 1.5 - 1.2.3 > 1.3.0
+- Follower Dialogue Expansion - Jenassa - 4.0 > 4.0
+- Follower Dialogue Expansion - Aranea Ienith - 1.0 > 2.0
+- Follower Dialogue Expansion - Sapphire - 1.0 > 1.0.1
+- Innocence Lost - Quest Expansion - 1.11 > 1.12
+- Headhunter - Bounties Redone - 1.56 > 1.57
+- More Thalmor Dossiers - 1.15 > 1.18
+- Stress and Fear - A Dynamic Sanity System - 2.0 > 2.01
+- GLENMORIL - 0.95.50 > 0.96.00
+- GLENMORIL - English Translation - 0.95.50 > 0.96.0-HF1
+- GLENMORIL - Delayed Start - 2.0 > 2.1
+- DAC0DA - Delayed Start - 1.0 > 1.1
+- UNSLAAD - 3.0.3 > 3.0.4
+- UNSLAAD - English Voiced - 3.0.3 > 3.0.4
+- The Wheels of Lull - 5.2.1 > 5.2.2
+- Siege at Icemoth - 1.3.8 > 1.3.9
+- Final Farewell - 1.0.4 > 1.0.6
+- Dragon War - A Dragon Overhaul - 4.1.5 > 4.1.6
+- SkyParkour - A SkyClimb Addon - 2.0.3 > 2.0.6
+- Conditional Expressions - Subtle Face Animations - 1.27 > 1.28
+- powerofthree's Papyrus Extender - 5.10 > 6.0.2
+- Dylbills Papyrus Functions - 9.2 > 10.1
+- SkyPatcher - 3.9 > 5.0.3
+- Container Distribution Framework - 2.2.1 > 3.0.2
+- Container Distribution Framework - 1.5.97 DLL - 2.2.1 > 3.0.2
+- DMCO Dodge - Skyrim Souls and Wheeler Patch - 1.1 > 1.2
+- ZedPatch 1 - 1.1.3 > 1.1.4
+- ZedPatch 2 - 1.1.3 > 1.1.4
+- ZedPatch 3 - 1.1.2 > 1.1.4
+- City Navmesh Patches - 1.1 > 1.1.4
+- Grass Cache Output - 0.9.6 > 1.1.4
+- DynDOLOD Output - Ultra - 1.1 > 1.1.4
+- DynDOLOD Output - High - 1.1 > 1.1.4
+- DynDOLOD Output - Low - 1.1 > 1.1.4
+- Occlusion Output - 1.1.3 > 1.1.4
+- Nemesis Output - 1.1.2 > 1.1.4
+- Overwrite Misc - 1.1.3 > 1.1.4
+
+### Tweaks
+
+- Modlist installation now requires the Creation Store version of **Rare Curios**. Modlist installation instructions have been changed to reflect this.
+
+</details>
+
+
 ## v1.1.3 - **5/11/2025**
 
 This version is **SAVE SAFE!** You should have no issues playing this version with saves created post version 1.1.
