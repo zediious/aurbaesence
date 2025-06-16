@@ -18,7 +18,7 @@ weight: 3
 
 1. Open the Wabbajack.exe you placed in C:\Wabbajack, and wait for it to open. Click the **Browse lists** option in the left navigation bar.
 
-2. Check the **"Non-featured"** checkbox at the top-left of the window. Then, search "Aurbaesence", or some amount of the modpack name, in the search box just above the checkbox. Click on the filtered **"Aurbaesence"** mod list. When the modlist window opens, click the **Install** button at the bottom-left of the window.
+2. Search "Aurbaesence", or some amount of the modpack name, in the search box just above the checkbox. Click on the filtered **"Aurbaesence"** mod list. When the modlist window opens, click the **Install** button at the bottom-left of the window.
 
 3. In the following window, set the Installation Location to C:\Aurbaesence (or wherever you created that directory). The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in. Seriously, this is VERY important. If you are at all confused by this, PLEASE reach out on our Discord!
 
