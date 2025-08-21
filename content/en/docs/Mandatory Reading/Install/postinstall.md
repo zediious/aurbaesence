@@ -101,13 +101,18 @@ Make sure to report any bugs/issues or anything remotely odd on our issue tracke
 
 ## Final Thoughts & Best Practices
 
+**DO NOT** load a save from the menu while in game, after you have already loaded into a save. This is **highly discouraged, and WILL cause issues!** Skyrim has an engine issue with not clearing game state fully on save loads, which can cause crashes, save corruption in certain instances, or benign issues.
+
+- [Check this comment for a more in-depth breakdown](https://www.reddit.com/r/skyrimmods/comments/17h3h2o/comment/k6lnsew/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+- [This video from wSkeever shows proof of one of many issues this can cause.](https://www.youtube.com/watch?v=PJPzMAXSprU)
+
+This can lead to certain events not triggering properly a second time, if a quest ending is done twice, NPCs not being present, and a wide variety of issues from benign to game-breaking. We use a death alternative mod to get around this on death, **but you should never do so manually** without first **fully closing the game.**
+
 - Endorse the mods that have been downloaded by this list! Without the mod authors, the list could not exist. You definitely don't have to click endorse 1500+ times in one day, but check your Nexus download history every once in a while and spend some time endorsing these mods. Wabbajack has made it incredibly easy to get the mods downloaded, but the authors deserve some commendation for their work, in my opinion. [Follow this link to get to your download history!](https://www.nexusmods.com/skyrimspecialedition/users/myaccount?tab=download+history)
 
 - The **Notable Mods** sections in the Wiki sidebar contains a full-detailed breakdown of all the important mods in this list. This section is still a WIP, and many sections only contain stubs with the mod name. Make sure to check it out after you have read the Mandatory Reading section! You can also use "Full Mod List" in the "Other List Information" tab to view the full mod list at Load Order Library.
 
 - When launching the game through Mod Organizer, **NEVER** click the "Unlock" button on the small window that Mod Organizer creates. This **WILL** cause issues!
-
-- **DO NOT** load a save from the menu while in game, after you have already loaded into a save. This is **highly discouraged, and WILL cause issues!** Skyrim has an engine issue with not clearing game state fully on save loads, which can cause crashes, save corruption in certain instances, or benign issues. [Check this comment for a more in-depth breakdown](https://www.reddit.com/r/skyrimmods/comments/17h3h2o/comment/k6lnsew/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). This can lead to certain events not triggering properly a second time, if a quest ending is done twice, NPCs not being present, and a wide variety of issues from benign to game-breaking. We use a death alternative mod to get around this on death, **but you should never do so manually** without first **fully closing the game.**
 
 - **NEVER** save right after a loading screen. Wait 15-30 seconds before saving to let scripts finish executing.
 

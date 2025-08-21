@@ -62,13 +62,18 @@ To seal it all off, this list is accompanied by a completely customized set of l
 
 ## Warnings/Disclaimers
 
+**DO NOT** load a save from the menu while in game, after you have already loaded into a save. This is **highly discouraged, and WILL cause issues!** Skyrim has an engine issue with not clearing game state fully on save loads, which can cause crashes, save corruption in certain instances, or benign issues.
+
+- [Check this comment for a more in-depth breakdown](https://www.reddit.com/r/skyrimmods/comments/17h3h2o/comment/k6lnsew/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+- [This video from wSkeever shows proof of one of many issues this can cause.](https://www.youtube.com/watch?v=PJPzMAXSprU)
+
+This can lead to certain events not triggering properly a second time, if a quest ending is done twice, NPCs not being present, and a wide variety of issues from benign to game-breaking. We use a death alternative mod to get around this on death, **but you should never do so manually** without first **fully closing the game.**
+
 As of the latest version, the modlist requires ~470GB (~191GB of Downloads/~276GB of Mods) of drive space on top of the ~14GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. You are welcome and recommended to use a separate drive for the downloaded archives, saving some space on the SSD storing the actual installed mod list. You can also feel free to delete the downloaded archives after installation, but keep in mind that you will have to re-download all of them if you need to re-install the list. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
 
 Wabbajack does not require that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually.
 
 When launching the game through Mod Organizer, **NEVER** click the "Unlock" button on the small window that Mod Organizer creates. This **WILL** cause issues! You will be reminded of this in the Post-Mod List Install section of the wiki.
-
-**DO NOT** load a save from the menu while in game, after you have already loaded into a save. This is **highly discouraged, and WILL cause issues!** Skyrim has an engine issue with not clearing game state fully on save loads, which can cause crashes, save corruption in certain instances, or benign issues. [Check this comment for a more in-depth breakdown](https://www.reddit.com/r/skyrimmods/comments/17h3h2o/comment/k6lnsew/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). This can lead to certain events not triggering properly a second time, if a quest ending is done twice, NPCs not being present, and a wide variety of issues from benign to game-breaking. We use a death alternative mod to get around this on death, **but you should never do so manually** without first **fully closing the game.**
 
 This list **requires** that you have the **latest** version of Skyrim installed on Steam. Do **NOT** use any downgrade patchers, Wabbajack will do this work for you.
 
