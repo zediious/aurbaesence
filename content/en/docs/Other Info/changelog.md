@@ -18,7 +18,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 This version is **SAVE SAFE!** You should have no issues playing this version with saves created post version 1.1, but ensure that you keep a backup of your saves.
 
-This version chiefly fixes a rather frequent crash in exteriors, with an update to DynDOLOD DLL NG from [3.00 Alpha 193](https://dyndolod.info/Changelog). There are a good few fixes as well beyond this, including an issue with Dragonborn progression.
+This version chiefly fixes a rather frequent crash in exteriors, with an update to DynDOLOD DLL NG [>= Alpha 193](https://dyndolod.info/Changelog). There are a good few fixes as well beyond this, including an issue with Dragonborn progression.
 
 There have also been some changes to each profile. The ultra profile will now utilize Inverse Square Lighting from Community Shaders, with CS Light supporting this. The performance profile will have a few of the more intensive Community Shaders addons disabled. Grass load distances have also been altered across each profile, with increases to ultra, and reductions in performance. Generally, you'll see a larger performance difference between each.
 
