@@ -13,7 +13,7 @@ weight: 20
         A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.
         <br>
         <br>
-        Current version: <b>v1.1.4 - 6/15/2025</b>
+        Current version: <b>v1.1.5 - 12/11/2025</b>
     </p>
     <div class="container mt-4 p-3">
         <a class="btn btn-lg btn-discord active me-3 mb-4 col-6" href="https://discord.gg/CvhTeavrcW">
@@ -42,7 +42,7 @@ The game will be hardly recognizable in term of movement, animation, combat, and
 
 ### New and Improved Mechanics
 
-This mod list does not stop at only influencing combat and animations. Just about every mechanic in the game has either been improved and/or replaced with new modern mechanics. We are also introducing entirely new mechanics, such as [SkyClimb](https://www.nexusmods.com/skyrimspecialedition/mods/97253), [Take a Peek](https://www.nexusmods.com/skyrimspecialedition/mods/66908), [Sneak Behavior Extensions- True Prone System](https://www.nexusmods.com/skyrimspecialedition/mods/87807), [Stress and Fear](https://www.nexusmods.com/skyrimspecialedition/mods/116522), [Soul Resurrection - Injury and Alternative Death System](https://www.nexusmods.com/skyrimspecialedition/mods/128265), [Maximum Carnage](https://www.nexusmods.com/skyrimspecialedition/mods/43494) and much more! Take a look at the "[New Mechanics to Know](mandatory-reading/gameplay-guide/newmechanics/)" page for an in-depth look at what to expect!
+This mod list does not stop at only influencing combat and animations. Just about every mechanic in the game has either been improved and/or replaced with new modern mechanics. We are also introducing entirely new mechanics, such as [SkyParkour](https://www.nexusmods.com/skyrimspecialedition/mods/132292), [Take a Peek](https://www.nexusmods.com/skyrimspecialedition/mods/66908), [Sneak Behavior Extensions- True Prone System](https://www.nexusmods.com/skyrimspecialedition/mods/87807), [Stress and Fear](https://www.nexusmods.com/skyrimspecialedition/mods/116522), [Soul Resurrection - Injury and Alternative Death System](https://www.nexusmods.com/skyrimspecialedition/mods/128265), [Maximum Carnage](https://www.nexusmods.com/skyrimspecialedition/mods/43494) and much more! Take a look at the "[New Mechanics to Know](mandatory-reading/gameplay-guide/newmechanics/)" page for an in-depth look at what to expect!
 
 ### Complete Settlement Overhaul / Vanilla Locations and Quests Overhaul
 

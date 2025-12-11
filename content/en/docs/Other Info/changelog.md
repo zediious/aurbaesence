@@ -14,6 +14,8 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
+## v1.1.5 - **12/11/2025**
+
 ## v1.1.4 - **6/15/2025**
 
 This version is **SAVE SAFE!** You should have no issues playing this version with saves created post version 1.1, but always keep backups of your saves!
