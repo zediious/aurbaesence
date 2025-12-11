@@ -680,6 +680,7 @@ Khajiiti Apex Armory
 - Gorm Set
 - Chevalier Half-Plate Set
 - Wandering Mercenary Armor
+- Nordic Brute Set
 
 ### Glass Tier
 
