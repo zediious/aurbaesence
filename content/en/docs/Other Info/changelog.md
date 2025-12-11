@@ -16,6 +16,192 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ## v1.1.5 - **12/11/2025**
 
+This version is **SAVE SAFE!** You should have no issues playing this version with saves created post version 1.1, but ensure that you keep a backup of your saves.
+
+This version chiefly fixes a rather frequent crash in exteriors, with an update to DynDOLOD DLL NG from [3.00 Alpha 193](https://dyndolod.info/Changelog). There are a good few fixes as well beyond this, including an issue with Dragonborn progression.
+
+There have also been some changes to each profile. The ultra profile will now utilize Inverse Square Lighting from Community Shaders, with CS Light supporting this. The performance profile will have a few of the more intensive Community Shaders addons disabled. Grass load distances have also been altered across each profile, with increases to ultra, and reductions in performance. Generally, you'll see a larger performance difference between each.
+
+We've also replaced Maximum Carnage with Dismembering Framework. Both are great, both Dismembering framework is a good bit smoother, and has less issues in general.
+
+Beyond the above, there are a few new additions, and further mod updates! This release is made save-safe to resolve the DynDOLOD crash primarily, the next update will NOT be save-safe as we will be updating quite a few major content mods.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
+
+### Removed
+
+- ReSaver
+- Complex Parallax Materials (Included in Base CS)
+- Water Blending (Included in Base CS)
+- Water Parallax (Included in Base CS)
+- Light Limit Fix (Included in Base CS)
+- Community Shaders - Frame Generation (Obsolete)
+- Alternate Perspective - Falkreath Favor Quest Failsafe (Replaced with Less Restrictive Favor Node)
+- Maximum Carnage (Replaced with Dismembering Framework)
+- Maximum Carnage Patches
+- Maximum Carnage Skeletons
+- Enhanced Volumetric Lighting and Shadows - (Replaced with Sky Sync)
+- Bruma Navmesh Fix (Included in Beyond Skyrim - Bruma - Unofficial Patch)
+- No Saving in Combat (Replaced with SKSE plugin implementation)
+- Pause After Load Unscripted
+- JellyFishInLoop SkyParkour Animations - (Included in main mod)
+- Modern Female Sitting Animations Overhaul
+
+### Added
+
+- Inverse Square Lighting
+- Sky Sync
+- Terrain Blending
+- Terrain Variation
+- Upscaling - Community Shaders
+- Crash Logger SSE AE VR
+- Skyrim Cell load Freeze Fix NG
+- Inertia (Floating Gear Fix)
+- Next-Gen Decapitations
+- Death Idle Fix
+- Less Restrictive Favor Node
+- TrueHUD - Inventory Injector Patch
+- Dismembering Framework
+- Dismembering Framework - Humanoid and Creature Packs
+- Dismembering Framework - Enhanced Blood Textures Patch
+- Dismembering Framework - Falmer Overhaul Patch
+- Dismembering Framework - Draugr Patch
+- Dismembering Framework - Undead Snow Elf Patch
+- Dismembering Framework - True Wolves Patch
+- Dismembering Framework - Grahl Patch
+- Animated Objects Overhauled
+- HammerHair
+- Immersive Dying Nurelion
+- Follower Dialogue Expansion - Eola
+- Follower Dialogue Expansion - Fura Bloodmouth
+- Followers React to Crafting
+- Saint Jiub's Bookmarks
+- JK's Skyrim Better Cranes
+- Custom Skills Unified Menu for CSF v3
+- Interesting NPCs - Abandoned Prison Fjona Familiar Fix
+- Missives - Voice and Quest Expansion
+- Midnight Sun
+- Blary's Booksets - Optimized
+- Nordic Brute Armor
+- STB No Save and Load in Combat
+- Killmove Fixes
+- Mephala Revoiced
+- Nocturnal Revoiced
+- 1st Person Dual Cast Behavior Fix
+- Dragon Random Stagger Animation
+- Horse Jump Fix
+- Obscure Animations Overhaul
+- No Grass in Objects - Low
+
+### Updated
+
+- Community Shaders - 1.2.1 > 1.4.6
+- Screen Space Global Illumination - 3.0.5 > 4.0
+- Screen-Space Shadows - 1.2.1 > 2.0
+- Subsurface Scattering - 2.0.2 > 3.0
+- Skylighting - 1.1 > 1.2.2
+- Wetness Effects - 2.0.1 > 3.0
+- Grass Collision - 2.0.1 > 3.0.1
+- Light Limit Fix - 2.0.1 > 2.3.0
+- Light Placer - 3.0.2 > 4.1.0
+- CS Lights - 1.7.1 > 1.8.8
+- Silent Horizons 2 ENB Preset - 1.7.2 > 1.10
+- Community Shaders - Frame Generation (Doodlum) - 1.0 > 1.0.1
+- DynDOLOD 3 Alpha - Alpha-191 > Alpha-196
+- SSE Engine Fixes - 5.91 > 7.0.19
+- ConsolePlusPlus - 1.4 > 1.5
+- Skyrim Particle Patch - 1.3.8 > 1.3.9
+- powerofthree's Tweaks - 1.13.1 > 1.15.1
+- Quest Fixes - 1.1 > 1.3
+- Persistent Favorites - 0.3.1 > 1.0.3
+- Assorted Mesh Fixes - 0.127 > 0.131
+- Enhanced Invisibility - 1.3 > 1.4.1
+- Zero Bounty Hostility Fix - 0.4 > 0.5
+- Alt-Tab Stuck Key Fix NG - 1.0 > 1.1
+- Informed Mail Delivery - 1.4 > 2.0
+- Dialogue History - 2.1.2 > 2.2.0
+- Switch Camera During Dialogue - 1.0 > 1.1
+- DynDOLOD Resources - Alpha-56 > Alpha57
+- DynDOLOD DLL NG - Alpha34 - Alpha39
+- Unofficial Material Fix - 1.17 > 1.18
+- NAT III - Community Shaders - 1.5.3 > 2.0.0
+- Dirt and Blood - Dynamic Visual Effects - 2.37 > 2.38
+- OBody NG - 4.3.7 > 4.4.3
+- Stormcrown - A Shout Overhaul - 1.1.16 > 1.1.17
+- Experience - 3.5 > 3.7.2
+- Follower Dialogue Expansion - Brelyna Maryon - 2.3.4 > 3.0
+- Follower Dialogue Expansion - Aela the Huntress - 6.0 > 7.0
+- Follower Dialogue Expansion - Jenassa - 5.0 > 6.0.1
+- Follower Dialogue Expansion - Mjoll the Lioness - 1.3 > 1.5
+- Follower Dialogue Expansion - Faendal - 1.0 > 1.1
+- Follower Dialogue Expansion - Rayya - 1.0 > 3.0
+- Missing Voices in Hearthfire Added Back - 2.0 > 3.0
+- Nilheim - Misc Quest Expansion - 1.13 > 1.14
+- The Whispering Door - Quest Expansion - 1.11 > 1.15
+- Headhunter - Bounties Redone - 1.57 > 1.59
+- The Gray Cowl of Nocturnal - 10th Anniversary - 1.1 > 1.4
+- Bring Meeko To Lod - 1.1 > 1.2
+- More Thalmor Dossiers - 1.18 > 1.19.2
+- Stress and Fear - A Dynamic Sanity System - 2.01 > 2.06
+- Remote Interactions - 1.05 > 1.06
+- Grab And Throw - 2.0 > 2.1
+- Swiftly Order Squad - Follower Commands UI - 1.11.3 > 1.12
+- Skyrim on Skooma - 69.69 > 69.69b
+- PhotoMode - 1.9.1 > 2.0.2
+- Immersive Illusion Spells - 1.2 > 1.3
+- Interesting NPCs Follower Requirements - 2.02 > 2.03
+- Beyond Skyrim - Bruma - Unofficial Patch - 1.6.1 > 1.7.3
+- Frozen in Time - 0.28 > 0.29.1
+- No Dragonborn Until Unbound - 1.1 > 1.2
+- SkyParkour - Procedural Parkour Framework - 2.0.6 > 3.2.1
+- EVGAT - Dynamic Climb-able Ladder Doors - 1.2 > 1.3
+- Precision Creatures - 2.4 > 2.41
+- New Creature Animation - Dwarven Centurion - MCO - 1.1 > 1.12
+- Conditional Expressions - Subtle Face Animations - 1.28 > 1.29
+- First Person Interactions - 1.6 > 1.7.2
+- Divines Prayer Animations - 3.1 > 3.1.1
+- powerofthree's Papyrus Extender - 6.0.2 > 6.2.1
+- Dylbills Papyrus Functions - 10.1 > 10.2
+- Andrealphus' Papyrus Functions - 1.5.2 > 1.6.1
+- SkyPatcher - 5.0.3 > 6.2.2
+- Base Object Swapper 3.3.1 > 3.4.1
+- Description Framework - 2.1.1 > 2.1.2
+- Custom Skills Framework - 2.0.2 > 3.1.0
+- ENB Extender for Skyrim - 1.3.1 > 1.4.2
+- NPCs Names Distributor - 2.5.3 > 2.5.5
+- Automated Enchanted Variants - 1.1 > 1.1.5
+- Leveled List Additions (Armors) - 1.1 > 1.1.5
+- Automated Enchanted Variant Leveled List Additions - 1.1 > 1.1.5
+- ZedPatch 1 - 1.1.4 > 1.1.5
+- ZedPatch 2 - 1.1.4 > 1.1.5
+- ZedPatch 3 - 1.1.4 > 1.1.5
+- Weapon and Armor Balance - 1.1.3 > 1.1.5
+- Synthesis Output - 1.1.3 > 1.1.5
+- Occlusion Output - 1.1.4 > 1.1.5
+- Nemesis Output - 1.1.4 > 1.1.5
+- Overwrite Misc - 1.1.4 > 1.1.5
+- No Grass in Objects - Ultra - 0.9.6.3 > 1.1.5
+
+### Fixes
+
+- Fix persistent crash in exteriors by updating from affected DynDOLOD DLL NG version, [3.00 Alpha 193](https://dyndolod.info/Changelog).
+- Fix persistent grass in subsequent cells by changing all profiles to use Grass Cache, but only Ultra will use Grass LOD (Fix [#140](https://github.com/zediious/aurbaesence/issues/140))
+- Fix the Bend Will word wall at Saering's Watch not working/allowing player to learn the shout (Fix [#143](https://github.com/zediious/aurbaesence/issues/143))
+- Ensure player cannot be kill-moved via Killmove Fixes (Fix [#138](https://github.com/zediious/aurbaesence/issues/138))
+- Resolve broken Pilgrim shrine blessings with update to Divines Prayer Animations
+- Introduced less restrictive conditions on when favor quests for towns can start, to ensure that thane and favor dialogue reliably is available.
+
+### Tweaks
+
+- Increased grass distance and fade range in Refined profile by 5000. Performance profile will continue to use older/smaller distance values.
+- Decreased time to speed up when moving from a stop.
+
+</details>
+
 ## v1.1.4 - **6/15/2025**
 
 This version is **SAVE SAFE!** You should have no issues playing this version with saves created post version 1.1, but always keep backups of your saves!
