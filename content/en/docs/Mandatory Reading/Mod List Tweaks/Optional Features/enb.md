@@ -29,8 +29,16 @@ All of the mods in the **ENB (OPTIONAL)** separator have notes attached to them,
 
 2. Enable the **ENBSeries Core** mod. This must always be enabled when using ENB.
 
-3. If you are using **ENB Preset - Silent Horizons 2 - Universal Core**, you MUST enable the **KiLoader for Skyrim** mod. If you are not using this preset, DO NOT enable **KiLoader for Skyrim**.
+3. If you are using **ENB Preset - Silent Horizons 2 - Universal Core**, you MUST enable the **KiLoader for Skyrim** mod. If you are not using this preset, DO NOT enable **KiLoader for Skyrim**. The other two presets do not require anything except for **ENBSeries Core** to be enabled.
 
-The other two presets do not require anything except for **ENBSeries Core** to be enabled. Ensure that you only have one preset enabled at a time.
+4. Optionally, click on the **Filter** option for the left pane of Mod Organizer, and search for `[ENBLight]`. Enable all of the mods that start with  `[ENBLight]`. You may need to expand the collapsed "ENB LIGHT (OPTIONAL)" separator.
+
+- This is an optional feature, ENB light can enact a larger performance hit in certain locations, but I do recommend using it if you are going to use ENB.
+
+**Ensure that you only have one preset enabled at a time**
+
+If you have already enabled ENB are switching back to Community Shaders, click on the **Filter** option for the left pane of Mod Organizer, and search for `[ENBLight]`. **Disable all of the mods that start with**  `[ENBLight]`. You may need to expand the collapsed "ENB LIGHT (OPTIONAL)" separator.
+
+- It is very important that these are disabled when Community Shaders are in use. **They are disabled by default**.
 
 ## [NEXT >> Frame Generation - Optional Feature](../nvidiadlss)
