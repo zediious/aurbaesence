@@ -45,6 +45,7 @@ Beyond the above, there are a few new additions, and further mod updates! This r
 - Maximum Carnage Patches
 - Maximum Carnage Skeletons
 - Enhanced Volumetric Lighting and Shadows - (Replaced with Sky Sync)
+- Bloodskal Tweaks and Enhancments - Horizontal Strike (Replaced with Bloodskal Blade Weapon Art)
 - Bruma Navmesh Fix (Included in Beyond Skyrim - Bruma - Unofficial Patch)
 - No Saving in Combat (Replaced with SKSE plugin implementation)
 - Pause After Load Unscripted
@@ -74,6 +75,7 @@ Beyond the above, there are a few new additions, and further mod updates! This r
 - Dismembering Framework - True Wolves Patch
 - Dismembering Framework - Grahl Patch
 - Animated Objects Overhauled
+- Bloodskal Blade Weapon Art
 - HammerHair
 - Immersive Dying Nurelion
 - Follower Dialogue Expansion - Eola
