@@ -13,7 +13,7 @@ weight: 20
         A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.
         <br>
         <br>
-        Current version: <b>v1.1.5 - 12/11/2025</b>
+        Current version: <b>v1.1.5.1 - 12/12/2025</b>
     </p>
     <div class="container mt-4 p-3">
         <a class="btn btn-lg btn-discord active me-3 mb-4 col-6" href="https://discord.gg/CvhTeavrcW">
