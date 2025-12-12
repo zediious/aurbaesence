@@ -146,6 +146,8 @@ Beyond the above, there are a few new additions, and further mod updates! This r
 - The Whispering Door - Quest Expansion - 1.11 > 1.15
 - Headhunter - Bounties Redone - 1.57 > 1.59
 - The Gray Cowl of Nocturnal - 10th Anniversary - 1.1 > 1.4
+- Missives - Worldspace Additions - Bruma - 2.04c > 2.10
+- Missives - Worldspace Additions - Gray Cowl - 2.06a -> 2.11
 - Bring Meeko To Lod - 1.1 > 1.2
 - More Thalmor Dossiers - 1.18 > 1.19.2
 - Stress and Fear - A Dynamic Sanity System - 2.01 > 2.06
