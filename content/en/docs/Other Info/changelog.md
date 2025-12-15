@@ -14,6 +14,28 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
+## v1.1.5.2 - **12/15/2025**
+
+This safe-safe update resolves broken carriage driver dialogue.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
+
+### Updated
+
+- ZedPatch 1 - 1.1.5.1 > 1.1.5.2
+- ZedPatch 2 - 1.1.5.1 > 1.1.5.2
+- ZedPatch 3 - 1.1.5.1 > 1.1.5.2
+
+### Fixes
+
+- Resolved missing carriage driver dialogue options, and fixed not traveling when sitting in the carriage.
+
+</details>
+
 ## v1.1.5.1 - **12/12/2025**
 
 This version has no user facing changes, it simply resolves an error in compilation that was preventing the modlist from being installed.
